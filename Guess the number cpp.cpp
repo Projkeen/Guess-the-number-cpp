@@ -14,7 +14,7 @@ int main()
 	srand(time(NULL));
 	int a = rand();
 	a = rand() % 100;
-	cout << a << endl;
+	/*cout << a << endl;*/
 	do {
 
 		cout << "Угадайте число от 1 до 100" << endl;
